@@ -80,7 +80,6 @@ I'm a results-driven **Software Engineer & Blockchain Developer** , specializing
 * **Description:** A fully on-chain Solana yield farming program. It allows users to stake their SPL LP tokens from an AMM (e.g., Raydium, Orca).
 * **Key Features:** Rewards are distributed in the form of SPL tokens, calculated based on the staked amount and time duration.
 * **Tech:** Solana (On-chain Program), Rust, Nextjs, Web3.
-* **Status: [Private Project - Code Not Public]**
 
 ### 2. Data-Centric IoT Healthcare Security System (FYP)
 * **Description:** Designed and developed a comprehensive security system for IoT healthcare environments.
