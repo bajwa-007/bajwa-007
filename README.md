@@ -104,10 +104,3 @@ I'm a results-driven **Software Engineer & Blockchain Developer** , specializing
 * **Tech:** MERN Stack (MongoDB, Express, React, Node.js).
 
 ---
-
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajwa-007&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Muzammil's Top Languages"/>
-</p>
