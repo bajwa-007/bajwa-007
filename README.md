@@ -91,7 +91,7 @@ I'm a results-driven **Software Engineer & Blockchain Developer** , specializing
 * **Description:** A social platform for developers to create profiles, showcase skills, and connect with peers.
 * **Key Features:** User authentication and real-time communication features.
 * **Tech:** React, Redux, Node.js, Express, MongoDB.
-* **[View on GitHub] (https://github.com/bajwa-007/DevConnect)** | **[Live Demo] (https://dev-connect-bajwas-projects-4497ecd8.vercel.app)**
+* **[View on GitHub] (https://github.com/bajwa-007/DevConnect)**
 
 ### 4. Event Globe - Event Management Platform
 * **Description:** An event management platform with a personalized event listing system.
